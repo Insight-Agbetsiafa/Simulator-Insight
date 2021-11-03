@@ -5,7 +5,9 @@ Two different python files are used:
 1. Simulator.py - Consists of the class of the individual python files; 
 
 coordinate_conversion.ipynb: Converts coordinates to radians
+print ("\n")
 uv-track.ipynb: Creates uv-tracks
+print ("\n")
 source_creation.ipynb: Creates sources
 visibility.ipynb: Creates visibilities
 noise_visibility.ipynb: Adds noise to visibilities
