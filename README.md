@@ -31,5 +31,5 @@ Two different python files are used:
 <br />
 2. Restart.py - Used to repeat the experiment based on the number of times it has to be done
 
-        python Restart.py -n 100 -a 2 -f 10 -s 10 -c 5 -r -20 -e 2 --type_classifier Naive <br />
+        python Restart.py -n 100 -a 2 -f 10 -s 10 -c 5 -r -20 -e 2 --type_classifier Naive 
 * Uses the same parameters defined above but best used when running several experiments.
