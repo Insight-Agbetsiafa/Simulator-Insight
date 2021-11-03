@@ -1,5 +1,5 @@
 # Simulator-Insight
-An RFI simulator to help teach interferometry and machine learning.
+An RFI simulation pipeline to help teach interferometry and machine learning.
 
 Two different python files are used: 
 1. Simulator.py - Consists of the class of the individual python files; 
